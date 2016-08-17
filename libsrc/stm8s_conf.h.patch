@@ -1,0 +1,11 @@
+--- stm8s_conf.h	2014-10-21 17:31:56.000000000 +0200
++++ stm8s_conf_assert.h	2016-08-17 23:39:20.000000000 +0200
+@@ -90,7 +90,7 @@
+ /* Exported constants --------------------------------------------------------*/
+ /* Uncomment the line below to expanse the "assert_param" macro in the
+    Standard Peripheral Library drivers code */
+-#define USE_FULL_ASSERT    (1) 
++// #define USE_FULL_ASSERT    (1)
+ 
+ /* Exported macro ------------------------------------------------------------*/
+ #ifdef  USE_FULL_ASSERT

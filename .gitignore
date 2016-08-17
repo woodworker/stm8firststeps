@@ -1,0 +1,49 @@
+# Created by .ignore support plugin (hsz.mobi)
+### C template
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.ihx
+
+# Debug files
+*.dSYM/
+*.su
+*.asm
+*.lk
+*.lst
+*.map
+*.rel
+*.rst
+*.sym
+
+# lib src
+libsrc/stm8s_stdlib.zip
+libsrc/build
+libsrc/inc
+libsrc/src
